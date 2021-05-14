@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: sandbox
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, config-consul, consul, data, data-jdbc, discovery-consul, flyway, gradle, grpc, java, java-application, jdbc-hikari, junit, logback, lombok, mysql, readme, shade, testcontainers, yaml]
